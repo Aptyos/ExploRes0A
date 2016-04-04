@@ -1,5 +1,7 @@
 ### 1. Total number of steps taken each day
 
+    ## [1] "English_United States.1252"
+
 ![](PA1_template_files/figure-markdown_strict/Part1Plot-1.png)<!-- -->
 
 #### Mean and median number of steps taken each day shown in legend above.
@@ -12,6 +14,4 @@
 
 ![](PA1_template_files/figure-markdown_strict/Part3Plot-1.png)<!-- -->
 
-### 4. Average number of steps taken per 5-minute interval across weekdays and weekends
-
-![](PA1_template_files/figure-markdown_strict/Part4Plot-1.png)<!-- -->
+![](PA1_template_files/figure-markdown_strict/Part4Code-1.png)<!-- -->
